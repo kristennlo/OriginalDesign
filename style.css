@@ -1,3 +1,22 @@
 body {
+  background-color: #C98686;
+}
+h2{
+  color:#EAEBED;
+  font-family: "Montserrat";
+  font-size: 300%
+}
+p{color:#EAEBED:
+ 
+font-size: 200%}
 
+ul{list-style-type: none;
+text-align: center;
+}
+li{float: left;
+}
+li a{
+  padding: 50px;
+  font-family: "Montserrat";
+  font-size: 150%
 }
